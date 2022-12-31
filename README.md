@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Pratap Singh</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokpratapsingh22" alt="alokpratapsingh22" /></a> </p>
+<h3 align="center">A passionate full stack developer from India</h3
 
 - 🔭 I’m currently working on **a few freelancing projects**
 
