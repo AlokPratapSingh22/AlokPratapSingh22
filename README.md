@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alok Pratap Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **a few freelancing projects**
+- 🔭 I’m currently working as a **Software Development Engineer** for **GE Vernova**.
 
-- 🌱 I’m currently learning **React.js, Next.js**
+- 🌱 I’m currently learning **SpringBoot** and **Angular**
 
-- 💬 Ask me about **python, django, node, javascript, sql**
+- 💬 Ask me about **python, django, node, javascript, sql, java, react**
 
-- 📫 How to reach me **alexps904@gmail.com**
+- 📫 How to reach me **alokpsingh22.mailbox@gmail.com**
 
-- ⚡ Fun fact **Culé para siempre**
+- ⚡ Fun fact *Culé para siempre*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
